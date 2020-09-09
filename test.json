@@ -1,0 +1,12 @@
+{
+    "name":"padar",
+    "city":"rangpur",
+    "religion":"sonaton",
+    "education":{
+        "psc":"first division",
+        "jsc":4.71,
+        "ssc":4.89
+    }
+
+
+}
