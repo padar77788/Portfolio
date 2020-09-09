@@ -9,32 +9,9 @@
 </head>
 <body>
          
-
-
-
-<body>
-<div name='form'>
-<h2>The XMLHttpRequest Object</h2>
-
-<form action="" method='post' > 
-  <select name="customers" onchange="showCustomer(this.value)">
-    <option value="">Select a customer:</option>
-    <option value="Alfreds">Alfreds Futterkiste</option>
-    <option value="mamun">mamun</option>
-  </select>
-</form>
-<br>
-<div id="txtHint"><h2>Customer info will be listed here...</h2></div>
-
-</div>
-<p>
+  <p>
 lorem loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 </p>
-
-<script src='test.js'>
-
-</script>
-   
     </body>
 </html>
  
